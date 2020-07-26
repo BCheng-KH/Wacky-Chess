@@ -1,0 +1,1 @@
+run board.py to play the game
